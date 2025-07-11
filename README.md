@@ -1,12 +1,12 @@
 # Lego University
 "This is a UNI empowered by LEGOs, designed for LEGOs, tailored to YOU". 
 
-
-Video Demo : https://youtu.be/TKRRmFTGfFk?si=jLM6uclVXOBNsPvg
-
+Demo : https://maheshr03.github.io/My-First-Website/
 
 Welcome to the README for the University Website! This document provides an overview of the website's structure, components, and guidelines for contributors and maintainers.
 This repository hosts the source code for an engaging and user-friendly university website. It encompasses HTML, CSS, basic JavaScript, and PHP. 
+
+<img width="1901" height="894" alt="image" src="https://github.com/user-attachments/assets/c843f265-d4b5-4f35-bd47-3bf52a87eac4" />
 
 # Purpose
 

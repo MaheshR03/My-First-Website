@@ -7,6 +7,15 @@ Welcome to the README for the University Website! This document provides an over
 This repository hosts the source code for an engaging and user-friendly university website. It encompasses HTML, CSS, basic JavaScript, and PHP. 
 
 <img width="1901" height="894" alt="image" src="https://github.com/user-attachments/assets/c843f265-d4b5-4f35-bd47-3bf52a87eac4" />
+<br>
+<br>
+<img width="1897" height="916" alt="image" src="https://github.com/user-attachments/assets/4938e7f0-5deb-4008-a975-4f788e0f107d" />
+<br>
+<br>
+<img width="1899" height="880" alt="image" src="https://github.com/user-attachments/assets/68b9fe84-4415-4e97-9eba-8f1a8a783a5b" />
+<br>
+<br>
+<img width="1867" height="856" alt="image" src="https://github.com/user-attachments/assets/e3478625-c337-4385-bebc-014f7882fc88" />
 
 # Purpose
 

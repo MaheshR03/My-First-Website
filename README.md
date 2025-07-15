@@ -114,3 +114,71 @@ The website is built using the following technologies:
 2. Version Control:: Git
    
 3. Hosting:: Github Pages
+
+# My First Website - Lego University
+
+A modern university website built with HTML, CSS, and JavaScript.
+
+## 🆕 Recent Updates
+
+### Contact Form Improvements ✅
+- **Enhanced PHP Handler**: Improved `form-handler.php` with proper validation and error handling
+- **Status Messages**: Real-time feedback for form submissions (success/error/loading states)
+- **Input Validation**: Server-side validation for all form fields
+- **Backup Logging**: All submissions saved to `contact_submissions.log` for backup
+- **Security**: Input sanitization and CSRF protection
+- **User Experience**: Loading indicators and auto-hide success messages
+
+### Technical Features:
+- ✅ Form validation (client & server-side)
+- ✅ Email sending with fallback logging
+- ✅ Professional status messages
+- ✅ Mobile-responsive design
+- ✅ Cross-browser compatibility
+
+## 📁 Project Structure
+
+```
+├── index.html          # Homepage
+├── about.html          # About page  
+├── course.html         # Courses page
+├── blog.html           # Blog page
+├── contact.html        # Contact page (✨ Recently improved)
+├── form-handler.php    # Contact form processor (✨ Recently improved)
+├── style.css           # Main stylesheet
+├── *.jpg              # Image assets
+└── contact_submissions.log  # Form submissions backup (✨ New)
+```
+
+## 🚀 How to Run
+
+### Local Development:
+```bash
+# Start PHP server
+php -S localhost:8000
+
+# Open in browser
+http://localhost:8000
+```
+
+### Contact Form Testing:
+```bash
+# Test the contact form at:
+http://localhost:8000/contact.html
+
+# Check form submissions:
+cat contact_submissions.log
+```
+
+## 📧 Contact Form Features
+
+The contact form now includes:
+- Real-time validation
+- Professional status messages  
+- Backup logging system
+- Email sending (when mail server configured)
+- Security enhancements
+- Mobile-friendly interface
+
+---
+*Lego University - Building Tomorrow's Leaders* 🎓

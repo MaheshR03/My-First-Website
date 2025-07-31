@@ -182,3 +182,10 @@ The contact form now includes:
 
 ---
 *Lego University - Building Tomorrow's Leaders* 🎓
+<<<<<<< HEAD
+
+# License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+=======
+>>>>>>> 69cbce0c444c47d7a6de5c86ccfaf15d0f47b4c7
